@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/ahnaftahmid/Docc/Coding/RUET/3.2/CSE-3206/1_Lab/Sample",
+      "program": "/Users/ahnaftahmid/Docc/Coding/RUET/3.2/CSE-3206/1_Lab/Sample/build/Debug/outDebug"
+    }
+  ]
+}
